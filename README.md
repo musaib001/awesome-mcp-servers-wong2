@@ -346,6 +346,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Druid MCP Server](https://github.com/iunera/druid-mcp-server)** - STDIO/SEE MCP Server for Apache Druid by [iunera](https://www.iunera.com) that provides extensive tools, resources, and prompts for managing and analyzing Druid clusters.
 - **[dbt-docs](https://github.com/mattijsdp/dbt-docs-mcp)** - MCP server for dbt-core (OSS) users as the official dbt MCP only supports dbt Cloud. Supports project metadata, model and column-level lineage and dbt documentation.
 - **[DeepView MCP](https://github.com/ai-1st/deepview-mcp)** - Enables IDEs like Cursor and Windsurf to analyze large codebases using Gemini's 1M context window.
+- **[Deoochform](https://github.com/musaib001/deoochform-mcp)** - Create forms, read submissions, and build invitations from any MCP client. Remote server at [deoochform.com](https://deoochform.com), OAuth, no API key.
 - **[DigitalOcean MCP Server](https://github.com/rohit-kaundal/digitalocean-mcp-server)** - A Model Context Protocol (MCP) server that provides programmatic access to DigitalOcean's API. This server exposes tools for managing droplets, Kubernetes clusters, and container registries through the MCP interface.
 - **[DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server)** - Tools to the query and execute of Dify workflows
 - **[Django REST Framework MCP](https://github.com/zacharypodbela/djangorestframework-mcp)** - Expose Django REST Framework APIs as MCP tools for LLMs and agentic applications
